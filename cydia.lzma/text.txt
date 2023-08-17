@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html dir="auto">
+
+<head>
+  <title><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"></title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script> 
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  <style>
+    @charset "utf-8";
+
+    :root {
+      --main-bg-color: white;
+      --main-color: black;
+      --alternate-bg-color: #efefef;
+      --alternate-color: #222222;
+      --main-border-color: #BBBBBB;
+        --link-color: #627EC9;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --main-bg-color: #222222;
+        --main-color: #eeeeee;
+        --alternate-bg-color: #444444;
+        --alternate-color: #cccccc;
+        --main-border-color: #AAAAAA;
+          --link-color: #627EC9;
+      }
+    }
+
+    html {
+      font-size: 100%;
+      font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
+      line-height: 1.4em;
+    }
+
+    body {
+      margin: 0;
+      padding: 1em;
+      background-color: var(--main-bg-color);
+      color: var(--main-color);
+    }
+
+    @media (max-device-width: 480px) {}
+
+    @media (min-device-width: 481px) {
+      body {
+        margin: auto;
+        max-width: 600px;
+      }
+    }
+
+    blockquote {
+      font-style: italic;
+      margin: 1.5em 2em;
+      padding: 1em;
+      background-color: var(--alternate-bg-color);
+      color: var(--alternate-color);
+    }
+
+    a {
+      color: var(--link-color);
+    }
+    pre {
+      display: block;
+      overflow: scroll;
+      width: 100%;
+      background-color: var(--alternate-bg-color);
+      padding: .5em 1em;
+      margin: 1em 0;
+    }
+
+    code {
+      background-color: var(--alternate-bg-color);
+      color: var(--alternate-color);
+      font-family: Menlo, Courier, sans-serif;
+      padding: 2px 3px;
+    }
+
+    table {
+      margin: 1.5em 0;
+      border: 1px solid var(--main-border-color);
+      border-collapse: collapse;
+    }
+
+    th {
+      padding: .25em .5em;
+      background: var(--alternate-bg-color);
+      border: 1px solid var(--main-border-color);
+    }
+
+    td {
+      padding: .25em .5em;
+      border: 1px solid var(--main-border-color);
+    }
+
+    img {
+      max-width: 90%;
+    }
+  </style>
+</head>
+
+<body>
+  <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<meta charset="utf-8"/>
+</head>
+<body>
+
+<p>&lt;!DOCTYPE HTML PUBLIC &#8220;-//W3C//DTD HTML 3.2 Final//EN&#8221;&gt;
+<html>
+<head>
+<title>Index of /</title>
+</head>
+<body></p>
+
+<h1>Index of /</h1>
+<table>
+<tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+<tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="CydiaIcon.png">CydiaIcon.png</a></td><td align="right">2018-12-03 22:30  </td><td align="right">8.4K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="debs/">debs/</a></td><td align="right">2023-05-17 08:35  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="dists/">dists/</a></td><td align="right">2023-05-17 08:33  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="info/">info/</a></td><td align="right">2018-12-12 16:30  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="sbingner.gpg">sbingner.gpg</a></td><td align="right">2018-08-08 21:36  </td><td align="right">1.6K</td><td>&nbsp;</td></tr>
+<tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.38 (Debian) Server at apt.bingner.com Port 80</address>
+</body></html>
+
+
+</body>
+</html>
+
+</body>
+
+</html>
